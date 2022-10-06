@@ -1,0 +1,259 @@
+"Site","Name","Level","data_rescale_case","tslength","ndatapoints","longestrun","propmissing","nruns10","effectivenE2"
+"Blelham Tarn (UK)","Chla","Total",1,312,300,204,0.0384615384615385,2,296
+"Blelham Tarn (UK)","Zooplankton","Total",3,324,310,190,0.0432098765432099,4,302
+"Esthwaite Water (UK)","Chla","Total",1,384,383,298,0.00260416666666667,2,379
+"Esthwaite Water (UK)","Zooplankton","Total",3,395,393,242,0.00506329113924051,3,387
+"Windermere North (UK)","copepod","FG",1,383,370,248,0.0339425587467363,3,364
+"Windermere North (UK)","large.clad","FG",3,383,370,248,0.0339425587467363,3,364
+"Windermere North (UK)","small.clad","FG",3,383,370,248,0.0339425587467363,3,364
+"Windermere North (UK)","Chla","Total",1,384,384,384,0,1,382
+"Windermere North (UK)","Zooplankton","Total",3,395,394,328,0.00253164556962025,2,390
+"Lake Apopka (FL)","clad","FG",3,200,197,157,0.015,2,191
+"Lake Apopka (FL)","copepod","FG",3,195,192,152,0.0153846153846154,2,186
+"Lake Apopka (FL)","Chla","Total",1,212,206,149,0.0283018867924528,2,193
+"Lake Apopka (FL)","Zooplankton","Total",1,195,192,152,0.0153846153846154,2,186
+"Lake Beauclair (FL)","clad","FG",3,197,187,148,0.050761421319797,2,178
+"Lake Beauclair (FL)","copepod","FG",3,194,184,145,0.0515463917525773,2,175
+"Lake Beauclair (FL)","Chla","Total",1,210,202,193,0.0380952380952381,1,195
+"Lake Beauclair (FL)","Zooplankton","Total",3,194,184,145,0.0515463917525773,2,175
+"Lake Dora (FL)","clad","FG",3,199,184,152,0.0753768844221105,2,167
+"Lake Dora (FL)","copepod","FG",1,194,179,147,0.077319587628866,2,162
+"Lake Dora (FL)","Chla","Total",1,203,192,73,0.0541871921182266,4,174
+"Lake Dora (FL)","Zooplankton","Total",1,194,179,147,0.077319587628866,2,162
+"Lake Eustis (FL)","clad","FG",3,199,187,152,0.0603015075376884,2,173
+"Lake Eustis (FL)","copepod","FG",1,194,182,147,0.0618556701030928,2,168
+"Lake Eustis (FL)","Chla","Total",1,173,165,154,0.046242774566474,1,153
+"Lake Eustis (FL)","Zooplankton","Total",1,194,182,147,0.0618556701030928,2,168
+"Lake Griffin (FL)","clad","FG",3,200,192,80,0.04,3,180
+"Lake Griffin (FL)","copepod","FG",1,195,187,80,0.041025641025641,3,175
+"Lake Griffin (FL)","Chla","Total",1,199,191,156,0.0402010050251256,2,178
+"Lake Griffin (FL)","Zooplankton","Total",1,195,187,80,0.041025641025641,3,175
+"Lake Harris (FL)","clad","FG",3,199,183,111,0.0804020100502513,3,167
+"Lake Harris (FL)","copepod","FG",1,194,178,106,0.0824742268041237,3,162
+"Lake Harris (FL)","Chla","Total",1,199,188,120,0.0552763819095477,3,170
+"Lake Harris (FL)","Zooplankton","Total",1,194,178,106,0.0824742268041237,3,162
+"Lake Yale (FL)","clad","FG",3,199,148,40,0.256281407035176,4,96
+"Lake Yale (FL)","copepod","FG",1,193,145,40,0.248704663212435,4,96
+"Lake Yale (FL)","Chla","Total",1,203,152,65,0.251231527093596,3,100
+"Lake Yale (FL)","Zooplankton","Total",1,193,145,40,0.248704663212435,4,96
+"Lake Greifensee","Zooplankton","Total",1,373,339,59,0.0911528150134048,12,283
+"Lake Greifensee","Chla","Total",1,386,346,59,0.103626943005181,10,284
+"Lake Greifensee","zoo.small","FG",3,373,327,59,0.123324396782842,12,271
+"Lake Greifensee","zoo.med","FG",1,373,339,59,0.0911528150134048,12,283
+"Lake Greifensee","zoo.large","FG",3,373,339,59,0.0911528150134048,12,283
+"Lake Greifensee","pred","FG",3,369,335,59,0.0921409214092141,12,279
+"Lake Geneva","Zooplankton","Total",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","Chla","Total",1,513,497,108,0.0311890838206628,14,463
+"Lake Geneva","copepod","FG",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","large.clad","FG",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","pred","FG",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","rotifer","FG",3,718,602,167,0.161559888579387,12,534
+"Lake Geneva","small.clad","FG",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","Asplanchna priodonta","SP",3,718,585,130,0.185236768802228,13,515
+"Lake Geneva","Bythotrephes longimanus","SP",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","Conochilus sp","SP",3,718,563,108,0.215877437325905,13,493
+"Lake Geneva","Cyclops prealpinus","SP",3,419,272,108,0.350835322195704,6,252
+"Lake Geneva","Cyclops vicinus","SP",3,375,337,108,0.101333333333333,9,310
+"Lake Geneva","Eubosmina longispina","SP",2,419,381,108,0.0906921241050119,10,349
+"Lake Geneva","Eudiaptomus gracilis","SP",3,718,639,167,0.110027855153203,13,564
+"Lake Geneva","Kellicottia longispina","SP",3,718,601,167,0.162952646239554,12,533
+"Lake Geneva","Keratella cochlearis","SP",3,718,480,167,0.331476323119777,8,425
+"Lake Geneva","Keratella quadrata","SP",3,718,480,167,0.331476323119777,8,425
+"Lake Geneva","Leptodora kindtii","SP",3,703,630,167,0.103840682788051,13,560
+"Lake Geneva","Polyarthra sp","SP",3,718,480,167,0.331476323119777,8,425
+"Lake Geneva","Synchaeta sp","SP",3,718,480,167,0.331476323119777,8,425
+"Lake Kasumigaura","Zooplankton","Total",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Chla","Total",1,425,425,425,0,1,423
+"Lake Kasumigaura","copepod","FG",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","large.clad","FG",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","rotifer","FG",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","small.clad","FG",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Asplanchna.spp.","SP",3,459,433,142,0.0566448801742919,6,420
+"Lake Kasumigaura","Bosmina.spp.","SP",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Brachionus.calyciflorus","SP",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Diaphanosoma..brachyurum","SP",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Filinia.spp.","SP",3,459,426,142,0.0718954248366013,7,411
+"Lake Kasumigaura","Keratella.cochlearis","SP",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Polyarthra.spp.","SP",3,459,450,142,0.0196078431372549,6,437
+"Lake Kasumigaura","Trichocerca.spp.","SP",3,459,450,142,0.0196078431372549,6,437
+"Lake Mendota (WI)","Zooplankton","Total",1,514,408,36,0.206225680933852,13,288
+"Lake Mendota (WI)","copepod","FG",1,514,408,36,0.206225680933852,13,288
+"Lake Mendota (WI)","large.clad","FG",3,514,408,36,0.206225680933852,13,288
+"Lake Mendota (WI)","small.clad","FG",3,514,408,36,0.206225680933852,13,288
+"Lake Mendota (WI)","ACANTHOCYCLOPS SP","SP",3,514,348,36,0.32295719844358,12,251
+"Lake Mendota (WI)","CHYDORUS SP","SP",3,499,382,36,0.234468937875752,12,266
+"Lake Mendota (WI)","DAPHNIA MENDOTAE","SP",3,514,408,36,0.206225680933852,13,288
+"Lake Mendota (WI)","DAPHNIA PULICARIA","SP",3,514,373,36,0.27431906614786,12,263
+"Lake Mendota (WI)","DIACYCLOPS THOMASI","SP",3,514,399,36,0.223735408560311,13,283
+"Lake Mendota (WI)","DIAPTOMID SPP","SP",3,514,408,36,0.206225680933852,13,288
+"Lake Mendota (WI)","MESOCYCLOPS EDAX","SP",3,514,378,36,0.264591439688716,12,270
+"Loch Leven","Zooplankton","Total",1,372,249,58,0.330645161290323,9,226
+"Loch Leven","Chla","Total",1,276,245,139,0.11231884057971,4,235
+"Loch Leven","clad","FG",3,372,261,60,0.298387096774194,8,240
+"Loch Leven","copepod","FG",1,372,249,58,0.330645161290323,9,226
+"Loch Leven","Cyclops.abyssorum","SP",3,372,261,60,0.298387096774194,8,240
+"Loch Leven","Eudiaptomus.gracilis","SP",3,372,261,60,0.298387096774194,8,240
+"Lake Zurich","Zooplankton","Total",1,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Chla","Total",1,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","copepod","FG",1,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","large.clad","FG",1,233,218,98,0.0643776824034335,3,210
+"Lake Zurich","pred","FG",3,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","small.clad","FG",1,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Bosmina.sp","SP",1,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Bytho.long","SP",3,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Cyclo.abyss","SP",3,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Cyclo.bohat","SP",3,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Cyclo.vicin","SP",3,233,197,91,0.15450643776824,3,187
+"Lake Zurich","Daphn.hyali","SP",3,188,138,91,0.265957446808511,2,130
+"Lake Zurich","Daphn.pulex","SP",3,185,141,95,0.237837837837838,3,132
+"Lake Zurich","Eudiapt.graci","SP",1,233,219,99,0.0600858369098712,3,211
+"Lake Zurich","Mesoc.edax","SP",3,233,219,99,0.0600858369098712,3,211
+"Lake Muggelsee","Zooplankton","Total",1,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Chla","Total",1,336,320,144,0.0476190476190476,5,310
+"Lake Muggelsee","copepod","FG",1,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","large.clad","FG",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","pred","FG",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","rotifer","FG",1,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","small.clad","FG",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Asplanchna priodonta","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Bosmina longirostris","SP",3,462,447,381,0.0324675324675325,4,432
+"Lake Muggelsee","Brachionus angularis","SP",3,477,447,361,0.0628930817610063,5,430
+"Lake Muggelsee","Brachionus calyciflorus","SP",3,477,444,356,0.0691823899371069,5,427
+"Lake Muggelsee","Chydorus sphaericus","SP",3,477,442,331,0.0733752620545073,6,425
+"Lake Muggelsee","Conochilus unicornis","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Cyclops vicinus","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Daphnia cucullata","SP",3,463,431,248,0.0691144708423326,5,414
+"Lake Muggelsee","Daphnia galeata","SP",3,460,445,381,0.0326086956521739,4,430
+"Lake Muggelsee","Dreissena polymorpha larvae","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Eubosmina coregoni","SP",3,464,449,381,0.0323275862068966,4,434
+"Lake Muggelsee","Eubosmina longicornis berolinensis","SP",3,368,318,244,0.135869565217391,2,314
+"Lake Muggelsee","Eudiaptomus gracilis","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Eudiaptomus graciloides","SP",3,417,394,304,0.0551558752997602,4,384
+"Lake Muggelsee","Kellicottia longispina","SP",3,432,417,336,0.0347222222222222,5,402
+"Lake Muggelsee","Keratella cochlearis","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Keratella quadrata","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Leptodora kindtii","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Mesocyclops leuckarti","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Polyarthra dolichoptera/vulgaris","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Pompholyx sulcata","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Synchaeta oblonga","SP",3,372,348,192,0.0645161290322581,2,344
+"Lake Muggelsee","Synchaeta pectinata","SP",3,477,462,381,0.0314465408805031,5,447
+"Lake Muggelsee","Trichocerca similis","SP",3,477,462,381,0.0314465408805031,5,447
+"Narragansett Bay","Zooplankton","Total",1,305,177,66,0.419672131147541,4,163
+"Narragansett Bay","Chla","Total",1,292,287,99,0.0171232876712329,5,277
+"Narragansett Bay","Acartia.hudsonica","SP",3,177,168,75,0.0508474576271186,3,160
+"Narragansett Bay","Acartia.tonsa","SP",3,177,168,75,0.0508474576271186,3,160
+"North Sea","Zooplankton","Total",1,672,672,672,0,1,670
+"North Sea","Chla","Total",3,672,672,672,0,1,670
+"North Sea","carnivore","FG",3,672,672,672,0,1,670
+"North Sea","herbivore","FG",1,672,672,672,0,1,670
+"North Sea","Paralia.sulcata.","SP",3,672,672,672,0,1,670
+"North Sea","Skeletonema.costatum.","SP",3,672,672,672,0,1,670
+"North Sea","Thalassiosira.spp..","SP",3,672,672,672,0,1,670
+"North Sea","Rhizosolenia.styliformis.","SP",3,672,672,672,0,1,670
+"North Sea","Rhizosolenia.hebetata.semispina.","SP",3,672,672,672,0,1,670
+"North Sea","Chaetoceros.Hyalochaete..spp.","SP",3,672,672,672,0,1,670
+"North Sea","Chaetoceros.Phaeoceros..spp.","SP",3,672,672,672,0,1,670
+"North Sea","Odontella.sinensis.","SP",3,672,656,428,0.0238095238095238,2,652
+"North Sea","Thalassionema.nitzschioides.","SP",3,672,672,672,0,1,670
+"North Sea","Proboscia.alata","SP",3,672,672,672,0,1,670
+"North Sea","Pseudo.nitzschia.delicatissima.complex","SP",3,672,672,672,0,1,670
+"North Sea","Pseudo.nitzschia.seriata.complex.","SP",3,672,672,672,0,1,670
+"North Sea","Rhizosolenia.imbricata","SP",3,672,672,672,0,1,670
+"North Sea","Coccolithaceae..Total.","SP",3,251,251,251,0,1,249
+"North Sea","Silicoflagellates.","SP",3,252,252,252,0,1,250
+"North Sea","Ceratium.fusus.","SP",3,672,672,672,0,1,670
+"North Sea","Ceratium.furca.","SP",3,672,672,672,0,1,670
+"North Sea","Ceratium.lineatum.","SP",3,672,672,672,0,1,670
+"North Sea","Ceratium.tripos.","SP",3,672,672,672,0,1,670
+"North Sea","Ceratium.macroceros.","SP",3,672,650,389,0.0327380952380952,2,646
+"North Sea","Ceratium.horridum.","SP",3,672,672,672,0,1,670
+"North Sea","Ceratium.longipes.","SP",3,672,672,672,0,1,670
+"North Sea","Dinophysis.spp..Total","SP",3,672,672,672,0,1,670
+"North Sea","Protoperidinium.spp..","SP",3,672,672,672,0,1,670
+"North Sea","Scrippsiella.spp..","SP",3,377,377,377,0,1,375
+"North Sea","Tintinnida.Total","SP",3,251,251,251,0,1,249
+"North Sea","Oithona.spp.","SP",3,672,672,672,0,1,670
+"North Sea","Pseudocalanus.spp..Adult.Atlantic","SP",3,672,672,672,0,1,670
+"North Sea","Para.Pseudocalanus.spp.","SP",3,672,672,672,0,1,670
+"North Sea","Temora.longicornis","SP",3,672,672,672,0,1,670
+"North Sea","Centropages.typicus.","SP",3,672,672,672,0,1,670
+"North Sea","Centropages.hamatus.","SP",3,672,672,672,0,1,670
+"North Sea","Calanus.finmarchicus","SP",3,672,672,672,0,1,670
+"North Sea","Calanus.helgolandicus","SP",3,672,672,672,0,1,670
+"North Sea","Metridia.lucens","SP",3,672,672,672,0,1,670
+"North Sea","Candacia.armata","SP",3,672,611,399,0.0907738095238095,3,603
+"North Sea","Podon.spp.","SP",3,672,672,672,0,1,670
+"North Sea","Evadne.spp.","SP",3,672,672,672,0,1,670
+"North Sea","Cyphonautes","SP",3,672,672,672,0,1,670
+"North Sea","Echinoderm.larvae","SP",3,672,672,672,0,1,670
+"North Sea","Gammaridea","SP",3,672,615,400,0.0848214285714286,3,608
+"North Sea","Hyperiidea..Total.","SP",3,672,672,672,0,1,670
+"North Sea","Decapoda.larvae..Total.","SP",3,672,672,672,0,1,670
+"North Sea","Cirripede.larvae..Total.","SP",3,672,672,672,0,1,670
+"North Sea","Appendicularia","SP",3,672,672,672,0,1,670
+"North Sea","Bivalvia.larvae","SP",3,672,672,672,0,1,670
+"North Sea","Thecosomata..North.Atlantic.","SP",3,672,672,672,0,1,670
+"North Sea","Fish.larvae","SP",3,672,672,672,0,1,670
+"Port Erin Bay","Zooplankton","Total",1,168,168,168,0,1,166
+"Port Erin Bay","Chla","Total",1,168,168,168,0,1,166
+"Port Erin Bay","carnivore","FG",1,168,168,168,0,1,166
+"Port Erin Bay","herbivore","FG",1,168,168,168,0,1,166
+"Port Erin Bay","Chaetoceras.decipiens","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Chaetoceras.debile","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Chaetoceras.teres","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Rhizosolenia.semispina","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Rhizosolenia.shrubsolei","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Rhizosolenia.stolterfothii","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Coscinodiscus.concinnus","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Coscinodiscus.radiatus","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Coscinodiscus.grani","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Biddulphia.mobiliensis","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Biddulphia.sinensis","SP",2,134,134,134,0,1,132
+"Port Erin Bay","Guinardia.flaccida","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Lauderia.borealis","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Ceratium.tripos","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Noctiluca.miliaris","SP",2,156,156,156,0,1,154
+"Port Erin Bay","Paracalanus.parvus","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Pseudocalanus.elongatus","SP",1,168,168,168,0,1,166
+"Port Erin Bay","Oithona.similis","SP",1,168,168,168,0,1,166
+"Port Erin Bay","Acartia.clausi","SP",1,168,168,168,0,1,166
+"Port Erin Bay","Calanus.finmarchicus","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Centropages.hamatus","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Temora.longicornis","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Echinoderm.plutei","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Polychaete.larvae","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Lamellibranch.larvae","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Gastropod.larvae","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Sagitta.bipunctata","SP",2,168,168,168,0,1,166
+"Port Erin Bay","Medusoid.gonophores","SP",2,168,168,168,0,1,166
+"Wadden Sea","Zooplankton","Total",1,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Chla","Total",1,116,115,98,0.00862068965517241,2,111
+"Wadden Sea","carnivore","FG",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","herbivore","FG",1,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Acartia_sp","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Acartia_sp_c","SP",1,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Acartia_sp_nau","SP",1,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Balanidae_nau","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Bivalvia_larv","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","C_hamatus","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","C_hamatus_c","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","C_hamatus_nau","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Gastrop_larv","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Harpacticoida","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Membranipora_larv","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","N_scintillans","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","O_dioica","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Oithona_sp","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Oithona_sp_c","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Oithona_sp_nau","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","P_elongatus","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","P_parvus","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Paracalanus_sp","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","R_oktopunctata","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Rotatoria","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Spionida_nektoch","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","T_longicornis","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","T_longicornis_c","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","T_longicornis_naup","SP",3,116,114,98,0.0172413793103448,2,108
+"Wadden Sea","Turbellaria","SP",3,116,114,98,0.0172413793103448,2,108

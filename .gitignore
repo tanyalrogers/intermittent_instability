@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+*.RData
+.Ruserdata
+*.html
+/scripts/dataprocess_raw.R
+/datainterm
+/data
+/output/archive
+/figures
+/archive
+/chaos meta

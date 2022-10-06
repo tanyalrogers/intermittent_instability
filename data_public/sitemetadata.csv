@@ -1,0 +1,22 @@
+Site,Country,Type,Redistributable,RestrictedUse,Lat,Lon,SurfaceArea,Chla_status,Temp_mean,Temp_range,Photoperiod_range,Chla_mean
+Blelham Tarn (UK),England,Lake,no,no,54.395,-2.979,0.1,chla,11.07205965,14.21337417,9.842412704,16.16455944
+Esthwaite Water (UK),England,Lake,no,no,54.36,-2.985,1.01,chla,10.93617548,14.60581723,9.827599345,20.45544604
+Windermere North (UK),England,Lake,no,no,54.37,-2.935,14.77,chla,10.84762432,12.99465152,9.831828042,5.635796875
+Lake Apopka (FL),"FL, United States",Lake,yes,no,28.626,-81.63,NA,chla,22.82812698,14.00011765,3.61833756,64.83493157
+Lake Beauclair (FL),"FL, United States",Lake,yes,no,28.773,-81.66,4.6,chla,24.55691469,14.39545833,3.640872873,114.6468241
+Lake Dora (FL),"FL, United States",Lake,yes,no,28.788,-81.7,NA,chla,24.01499442,14.97266667,3.643176417,97.35786807
+Lake Eustis (FL),"FL, United States",Lake,yes,no,28.847,-81.73,NA,chla,23.40595299,14.57571429,3.652244287,35.23782186
+Lake Griffin (FL),"FL, United States",Lake,yes,no,28.883,-81.85,NA,chla,23.57276505,14.70400735,3.657782927,66.20088257
+Lake Harris (FL),"FL, United States",Lake,yes,no,28.778,-81.81,NA,chla,23.59030828,14.71125,3.641640638,37.07079763
+Lake Yale (FL),"FL, United States",Lake,yes,no,28.912,-81.735,16.4,chla,24.08844519,15.35012727,3.66224776,32.84473722
+Lake Greifensee,Switzerland,Lake,yes,no,47.35,8.68,8.45,cell density,12.4867335,18.66280645,7.419103315,NA
+Lake Geneva,Switzerland/France,Lake,no,yes,46.43,6.55,580,chla,12.80997664,15.48784318,7.164684915,3.953229709
+Lake Kasumigaura,Japan,Lake,no,yes,36.03,140.4,167.7,chla,15.84880855,22.81486332,4.858519113,64.43705882
+Lake Mendota (WI),"WI, United States",Lake,yes,no,43.1113,-89.4255,39.4,chla,11.46193045,23.29961559,6.328310383,9.623979592
+Loch Leven,Scotland,Lake,yes,no,56.194,-3.375,16.1,chla,9.624560031,14.12531328,10.65691819,38.55855491
+Lake Zurich,Switzerland,Lake,yes,no,47.235,8.698,88.7,chla,12.98680281,20.09773693,7.386696369,6.732557078
+Lake Muggelsee,Germany,Lake,no,yes,52.437,13.646,NA,chla,11.20419235,18.84442727,9.064912491,22.62323958
+Narragansett Bay,"RI, United States",Marine,yes,no,41.567,-71.384,NA,chla,11.55122678,20.48497949,5.975918655,41.41411731
+North Sea,,Marine,no,yes,56.3,3.4,NA,cell density,10.08093162,10.60118174,10.70847692,NA
+Port Erin Bay,Isle of Man,Marine,yes,no,54.088,-4.768,NA,cell density,10.70319898,7.433268445,9.713695915,NA
+Wadden Sea,,Marine,yes,no,55.03,8.46,NA,chla,10.26296672,16.27033704,10.11764293,5.794723671
