@@ -116,6 +116,7 @@ ggplot(globalseas2) +
   scale_y_productlist(expand = expand_scale(mult = 0)) +
   scale_x_productlist(expand = expand_scale(mult = 0))
 ggsave("figures/stability_mosaic.png", width = 6, height = 3, units = "in")
+ggsave("figures/Figure_1.pdf", width = 6, height = 3, units = "in")
 
 #mosaic plot version (individual sites)
 serpersite=as.data.frame(table(Site=droplevels(globallevels$Site)))
@@ -148,6 +149,7 @@ R2=ggplot(globalsummarymed, aes(x=Level2, y=R2abund, group=Site, color=Type)) +
   classic + scale_color_brewer(palette = "Set1", direction = -1)
 plot_grid(CV,R2,labels = "auto", align = "hv", ncol = 2)
 ggsave("figures/CV_R2.png", width = 7, height = 3, units = "in")
+ggsave("figures/Figure_5.pdf", width = 7, height = 3, units = "in")
 
 #embedding dimension
 ggplot(globalsummarymed, aes(x=Level2, y=E, group=Site, color=Type)) +
@@ -281,6 +283,7 @@ gvgv12b=ggplot(globalseas, aes(y=llerange,x=pplle)) +
   labs(color="LE\nclassification", y="Seasonality (annual)\nof local eigenvalue", x="Local eigenvalue (proportion positive)", shape="System")
 plot_grid(gvgv12a,gvgv12b,nrow = 2,labels = "auto",align = "hv")
 ggsave("figures/GLEvLLEalt_llerange_update.png", width = 8, height = 5, units = "in")
+ggsave("figures/Figure_2.pdf", width = 8, height = 5, units = "in")
 
 # Plots of individual time series ####
 
@@ -312,6 +315,7 @@ specplot=ggplot(localpowersub, aes(x=Frequency, y=Power)) +
   classic + removefacets
 plot_grid(abplot,leplot,specplot,nrow = 1,labels = "auto",align = "hv", rel_widths = c(0.9,1,0.9))
 ggsave("figures/LEpwrsample.png", width = 10, height = 7.5, units = "in")
+ggsave("figures/Figure_3.pdf", width = 10, height = 7.5, units = "in")
 
 #color lines by year
 ggplot(localsub, aes(x=Month, y=AbundanceLogScale, color=Year_rel)) +
@@ -492,7 +496,7 @@ crosssiteplot2=function(x,y,pointsize=3) {
                  x=="lnChla" ~ "ln Chla")
   ggplot(data=globalseassummary, aes_string(color="Level2", shape="Type", x=x, y=y)) +
     facet_grid(.~Level2) +
-    geom_smooth(aes(fill=Level2, group=Level2),alpha=0.1,method="lm",se = T,show.legend = F) +
+    geom_smooth(aes(fill=Level2, group=Level2),alpha=0.2,method="lm",se = T,show.legend = F) +
     geom_point(data=globalseas, size=pointsize-1, alpha=0.2, color="gray50", show.legend = F) +
     geom_point(size=pointsize, alpha=0.9, show.legend = F) + 
     scale_color_brewer(palette = "Set2") + scale_fill_brewer(palette = "Set2") +
@@ -572,6 +576,7 @@ cs13=crosssiteplot2(x="Temp_mean", y="JLEmean", pointsize = 2)
 cs23=crosssiteplot2(x="Temp_range", y="JLEmean", pointsize = 2)
 plot_grid(cs11,cs21,cs12,cs22,cs13,cs23, nrow = 3, labels = "auto")
 ggsave("figures/crosssite_indiv.png", width = 9, height = 8, units = "in")
+ggsave("figures/Figure_6.pdf", width = 9, height = 8, units = "in")
 
 
 # Lake-level stability vs covariates (regressions) ####
@@ -671,6 +676,7 @@ ggplot(local3,aes(x=log(ver), y=logabsres)) +
   geom_smooth(show.legend = F, se = F, method = "lm", lwd=1, color="navy") +
   classic + labs(x="Log VER", y="Log abs residual") + removefacetbackground
 ggsave("figures/pred_coefs_alldata_update.png",width = 6,height = 3)
+ggsave("figures/Figure_4.pdf",width = 6,height = 3)
 
 m1=lme4::lmer(logabsres~log(ver)*Level2+(1|Site),data=local3)
 car::Anova(m1)

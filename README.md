@@ -1,12 +1,12 @@
 # Intermittent instability in plankton
 
-This repository is associated with the paper "Intermittent instability is widespread in plankton communities" by Tanya Rogers, Stephan Munch, Shin-ichiro Matsuzaki, and Celia Symons.
+This repository is associated with the paper "Intermittent instability is widespread in plankton communities" by Tanya Rogers, Stephan Munch, Shin-ichiro Matsuzaki, and Celia Symons published in *Ecology Letters* (2023).
 
 ![](flowchart.png)
 
 To comply with data licensing polices, the abundance and temperature time series for some datasets are omitted, but can be obtained from the sources cited. The directory `data_public/` contains the abundance and temperature series for which redistribution is allowed (these data have been cleaned, processed, summarized to different levels of aggregation, and filtered using critera for zeros and missing values), and the metadata for all series. Analysis outputs for all series are included in `outputs/`. Users can substitute `data_public/` for `data/` in the scripts to reproduce most of the results. Note that figures reliant on abundance data will not be exactly reproduced due to the omissions. 
 
-<!-- Reuse of the source data in this repository should cite both the original source(s) and this study, and comply with the original license terms for each dataset. The code and derived datasets in this repository were developed by US government employees, and are considered public domain. --> 
+Reuse of the **source data** in this repository should cite both the original source(s) and this study, and comply with the original license terms for each dataset. The **code and derived outputs** in this repository were developed by US government employees, and are considered public domain.
 
 ### Data sources
 
